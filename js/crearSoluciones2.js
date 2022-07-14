@@ -1,0 +1,1 @@
+let cantidad=prompt(`Cuantos alumnos son?`)
